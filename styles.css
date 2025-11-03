@@ -3,11 +3,6 @@
   src: url(res/Fonts/luxroman.ttf);
 }
 
-@font-face {
-  font-family: archand;
-  src: url(res/Fonts/archand.ttf);
-}
-
 * {
   margin: 0;
   padding: 0;
@@ -96,10 +91,4 @@ footer {
 h1 {
   color: white;
   font-family: "luxroman", sans;
-}
-
-p {
-  color: white;
-  font-family: "archand", sans;
-  font-size: 1.3em;
 }
