@@ -32,9 +32,8 @@ footer {
 }
 
 .main_body {
-  color: #fff;
-  font-family: "archand", sans;
   display: flex;
+  color: #fff;
   flex-direction: column;
   position: relative;
   align-items: center;
@@ -90,7 +89,6 @@ footer {
 
 .footer p {
   color: #fff;
-  font-family: "archand", sans;
   margin: 15px 0 10px 0;
   font-size: 1rem;
   font-weight: 300;
@@ -99,4 +97,10 @@ footer {
 h1 {
   color: white;
   font-family: "luxroman", sans;
+}
+
+p {
+  color: white;
+  font-family: "archand", sans;
+  font-size: 1.3em;
 }
