@@ -33,6 +33,7 @@ footer {
 
 .main_body {
   color: #fff;
+  font-family: "archand", sans;
   display: flex;
   flex-direction: column;
   position: relative;
