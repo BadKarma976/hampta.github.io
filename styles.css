@@ -4,8 +4,8 @@
 }
 
 @font-face {
-  font-family: archand;
-  src: url(res/Fonts/archand.ttf);
+  font-family: mclaren;
+  src: url(res/Fonts/mclaren.ttf);
 }
 
 * {
@@ -101,6 +101,6 @@ h1 {
 
 p {
   color: white;
-  font-family: "archand", sans;
+  font-family: "mclaren", sans;
   font-size: 1.3em;
 }
